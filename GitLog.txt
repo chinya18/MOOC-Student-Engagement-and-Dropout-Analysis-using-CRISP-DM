@@ -1,0 +1,77 @@
+commit f29f699bca17d69dd73ca0711f9d7540255ed127
+Author: Chinmay Dunakhe <chinmaycdunakhe@gmail.com>
+Date:   Sun Jan 12 10:29:48 2025 +0000
+
+    Finishing the report with Final Edits
+
+commit e94ba41209d7bae2208f3827a8b15a50a2346fda
+Author: Chinmay Dunakhe <chinmaycdunakhe@gmail.com>
+Date:   Thu Jan 9 11:00:10 2025 +0000
+
+    Finished Writing the Round 2 Evaluation and Final Deployment Phase
+
+commit 74c4921f085d50a0b5f9aad70687f4ad0ea7c6c8
+Author: Chinmay Dunakhe <chinmaycdunakhe@gmail.com>
+Date:   Tue Jan 7 18:40:33 2025 +0000
+
+    Cached all the dataframes after completing the analysis
+
+commit c65c08bfaaf8c47f51d0d34ace3255bf2539d11d
+Author: Chinmay Dunakhe <chinmaycdunakhe@gmail.com>
+Date:   Tue Jan 7 18:20:11 2025 +0000
+
+    Started Writing the Round 2 Evaluation
+
+commit 76427d0678ec573d0fbb3e7d84d6ea8d8fccd0f3
+Author: Chinmay Dunakhe <chinmaycdunakhe@gmail.com>
+Date:   Fri Dec 13 22:43:21 2024 +0000
+
+    Added some new plots for the analysis of ambigous questions
+
+commit eb8e52df0a54ad0b4d3f3609d588e4ebe925f690
+Author: Chinmay Dunakhe <chinmaycdunakhe@gmail.com>
+Date:   Fri Dec 13 11:08:21 2024 +0000
+
+    Done with Data Analysis of CRISP-DM Cycle 2
+
+commit 75c981192fa6db7eba9c7f9aaacbacea2aa9d732
+Author: Chinmay Dunakhe <chinmaycdunakhe@gmail.com>
+Date:   Thu Dec 12 19:24:56 2024 +0000
+
+    Completed the CRISP-DM Cycle 1 Data Analysis and Evaluation and Started with Cycle 2
+
+commit 04f276987854492dd39175e3c7a929a2362cd49f
+Author: Chinmay Dunakhe <chinmaycdunakhe@gmail.com>
+Date:   Wed Dec 11 10:45:24 2024 +0000
+
+    Started Data Analysis in 01-DataAnlysis.R
+
+commit 1e64884e55c018664420c0df0e94334f519d6a7b
+Author: Chinmay Dunakhe <chinmaycdunakhe@gmail.com>
+Date:   Tue Dec 10 16:44:56 2024 +0000
+
+    Started the Data Transformation: Merged & CSV Files Together
+
+commit f38923ef585d7d8ad7cfe2f047b85a703a6ce35c
+Author: Chinmay Dunakhe <chinmaycdunakhe@gmail.com>
+Date:   Tue Dec 3 21:43:49 2024 +0000
+
+    Created Rmarkdown File and Started Writing the Content
+
+commit 897f27cbb50e2d0ec5870648d963f7031aedb300
+Author: Chinmay Dunakhe <chinmaycdunakhe@gmail.com>
+Date:   Tue Dec 3 21:40:06 2024 +0000
+
+    Setup renv and Loaded Required Packages
+
+commit c61fd598dc9e726e35ce38549a2d14058bfd5406
+Author: Chinmay Dunakhe <chinmaycdunakhe@gmail.com>
+Date:   Tue Dec 3 21:25:23 2024 +0000
+
+    Dataset files loaded into the data folder and ready for Data Cleaning and Preprocessing
+
+commit 11193d5bd8812d8f49ad36ae7caec1c9560445fd
+Author: Chinmay Dunakhe <chinmaycdunakhe@gmail.com>
+Date:   Tue Dec 3 18:00:05 2024 +0000
+
+    ProjectTemplate Setup Complete
